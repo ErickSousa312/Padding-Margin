@@ -1,0 +1,53 @@
+*{
+    background-color: #E6E6FA;
+    margin: 0;
+    padding: 0;
+}
+
+.titulodapagina{
+background-color: #191970;
+color: #E6E6FA;
+font-size: 32px;
+padding: 40px;
+font-family: Georgia, 'Times New Roman', serif;
+font-weight: bold;
+margin-bottom: 20px;
+}
+
+.subtitulo1 h2, .subtitulo2 h2{
+    background-color: #AEAED4;
+    color: #191970;
+    padding: 5px;
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', serif;
+    margin-top: 20px;
+    
+    border-bottom-style: dashed 
+}
+a{
+    
+    margin-right: 1px;
+    margin-left: 20px;
+    font-family: Georgia, 'Times New Roman', serif;
+    
+}
+
+p{
+    color: #7c7cb1;
+    font-weight: bold;
+    font-size: 15px;
+    margin-left: 80px;
+    font-family: Georgia, 'Times New Roman', serif;
+    
+}
+ul li{
+    color: #191970;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+h4{
+    color: darkgrey;
+}
